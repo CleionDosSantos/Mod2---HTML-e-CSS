@@ -7,3 +7,5 @@ Pasta src apresenta os códigos
 - [Exercício 2](./src/ex002/ex002.html)
 
 - [Exercício 3](./src/ex003/index.html)
+
+- [Exercício 4](./src/ex004/index.html)
