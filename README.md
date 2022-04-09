@@ -12,4 +12,4 @@ Pasta src apresenta os códigos
 
 - [Exercício form](./src/form/form.html)
 
-- [Exercício exaula20](./src/exAula20/index.html)
+- [Exercício exaula20](./src/exAula20/)
