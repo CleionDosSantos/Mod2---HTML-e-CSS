@@ -1,0 +1,19 @@
+body{
+    background-color: bisque;
+}
+p{
+    color: green;
+    font-size: 12px;
+}
+.h1{
+    color: yellow;
+    border: 10px solid red;
+    /*border: 10px dotted/dashed red;*/
+}
+div{
+    color: red;
+    background-color: black;
+}
+#id{
+    color: blue;
+}
