@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro</title>
+</head>
+<body>
+    <form action="" method="post">
+        <table>
+            <tr>
+                <td><th>Formulário de Cadastro</th></td>
+            </tr>
+            <tr>
+                 <td>
+                     <label for="Email">Nome</label>
+                 </td>
+                 <td>
+                     <th>
+                         <input type="text" id="nome" placeholder="Nome" required="true">
+                    </th>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="Sobrenome">Sobrenome</label>
+                </td>
+                <td>
+                    <th>
+                        <input type="text" id="Sobrenome" placeholder="Sobrenome" required="true">
+                   </th>
+               </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="Email">Endereço</label>
+                </td>
+                <td>
+                    <th>
+                    <textarea name="Endereço" id="Endereço" cols="20" rows="4"></textarea>
+                    </th>
+                </td>
+            <tr>
+                <td>
+                    <label for="Email">Disciplinas</label>
+                </td>
+            <th></th>
+                <td>    
+                    <table>
+                        <tr>
+                            <td>
+                                <input type="checkbox" id="progamacao">
+                                <label for="">Programação</label> 
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <input type="checkbox" id="logica">
+                                <label for="logica">Lógica</label> 
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <input type="checkbox" id="algoritmos">
+                                <label for="">Algoritmos</label>  
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <input type="checkbox" id="bancoDedados">
+                                <label for="bancoDedados">Banco de Dados</label> 
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                <input type="checkbox" id="Mobile">
+                                <label for="Mobile">Mobile</label> 
+                            </td>
+                        </tr>
+
+                    </table>
+                    
+                    
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="genero">Gênero</label>
+                </td>
+
+                <th>
+                    <td>
+                        <input type="radio" name="masculino" id="masculino"> 
+                        <label for="Masculino">Masculino</label>
+                        <input type="radio" name="feminino" id="feminino"> 
+                        <label for="feminino">Feminino</label>
+                        <input type="radio" name="Não informar" id="Naoinformar"> 
+                        <label for="Não informar">Não informar</label>
+                    </td>
+                </th>
+            </tr>
+            
+            <tr>
+                <td>
+                    <label>
+                        Idade
+                    </label>
+                </td>
+                <th>
+                    <td>
+                        <select name="idade" required="true">
+                            <option value="" disabled selected>
+                                Selecione
+                            </option>
+                            <option name="20" value="20">
+                                20
+                            </option>
+                            <option name="40" value="40">
+                                40
+                            </option>
+                        </select>
+                    </td>
+                </th>
+            </tr>
+            <tr>
+                <td>
+                    <label for="fotoperfil">Foto de perfil</label>
+                </td>  
+                <th>
+                   <td><input type="file" name="foto" id="foto"></td>
+                </th>
+            </tr>
+            <tr>
+                <td><input type="submit" value="Cadastrar" id="cadastrar"></td>
+                <td><input type="reset" value="Limpar"></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
