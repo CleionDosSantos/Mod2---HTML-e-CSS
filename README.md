@@ -11,3 +11,5 @@ Pasta src apresenta os códigos
 - [Exercício 4](./src/ex004/index.html)
 
 - [Exercício form](./src/form/form.html)
+
+- [Exercício exaula20](./src/exAula20/index.html)
