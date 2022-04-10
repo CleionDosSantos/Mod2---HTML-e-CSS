@@ -15,3 +15,5 @@ Pasta src apresenta os códigos
 - [Exercício exAula20(Desafio_2)](./src/exAula20/)
 
 - [Exercício Css](./src/Aula21/) 
+
+- [Exercício Aula21](./src/Aula21/) 

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seletores</title>
+    <style>
+        /*estilo baseado em seleteor*/
+        div{
+            width: 200px;
+            height: 200px;
+            background-color: bisque;
+            margin: 10px;
+            border: 1px solid yellow;
+        }
+        /*Estilos em atributos*/
+        p[name="p3"], p[name="p2"]{
+            color: rgb(186, 41, 41);
+        }
+        /*Estilos em Pseudo-Classe*/
+        input:hover{
+            background-color: blue;
+        }
+        /*Estilos em Pseudo-Classe e elementos*/
+        /*#myid:hover*/
+    </style>
+</head>
+<body>
+    <div>
+        <p name="p3">Conteúdo de texto</p>
+    </div>
+    <div>
+        <p name="p2">Conteúdo de texto, tag 2</p>
+    </div>
+    <input type="submit" value="Envar">
+</body>
+</html>
