@@ -17,3 +17,7 @@ Pasta src apresenta os códigos
 - [Exercício Css](./src/Aula21/) 
 
 - [Exercício Aula21](./src/Aula21/) 
+
+- [Exercício Aula22](./src/estilos/) 
+
+- [Exercício Aula23](./src/Aula23-mediaQueries/) 
