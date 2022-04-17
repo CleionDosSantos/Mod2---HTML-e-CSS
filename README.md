@@ -21,3 +21,6 @@ Pasta src apresenta os códigos
 - [Exercício Aula22](./src/estilos/) 
 
 - [Exercício Aula23](./src/Aula23-mediaQueries/) 
+
+- [Exercício Aula24](./src/exaula24/) 
+
