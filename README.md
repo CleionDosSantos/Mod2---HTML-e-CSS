@@ -30,3 +30,5 @@ Pasta src apresenta os códigos
 
 - [Exercício instagram](./src/instagram/) 
 
+- [Exercício calculadora](./src/calculadora/) 
+
