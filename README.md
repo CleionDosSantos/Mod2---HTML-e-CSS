@@ -25,3 +25,8 @@ Pasta src apresenta os códigos
 - [Exercício Aula24](./src/exaula24/) 
 
 - [Exercício Aula26](./src/aula26/) 
+
+- [Exercício facebook](./src/facebook/) 
+
+- [Exercício instagram](./src/instagram/) 
+
